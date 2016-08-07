@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "爱"
+date:   2016-08-07 00:00:00 +0800
+categories: love
+---
+
+## 变种人的爱
+<video src="http://7xv9qe.com1.z0.glb.clouddn.com/xman4.mp4" type="video/mpeg" controls="controls">
+</video>
+<br><br><br>
+
+## 女人的爱
+<video src="http://7xv9qe.com1.z0.glb.clouddn.com/WickerPark_Rose.mp4" type="video/mpeg" controls="controls">
+</video>
+<br><br><br>
+
+## 超人的爱
+<video src="http://7xv9qe.com1.z0.glb.clouddn.com/supergirl.mp4" type="video/mpeg" controls="controls">
+</video>
+<br><br><br>
+
+## 男人的爱
+<video src="http://7xv9qe.com1.z0.glb.clouddn.com/WickerPark.mp4" type="video/mpeg" controls="controls">
+</video>
+<br><br><br>
+
+## 还有小孩子
+<video src="http://7xv9qe.com1.z0.glb.clouddn.com/ThePatriot.mp4" type="video/mpeg" controls="controls">
+</video>
