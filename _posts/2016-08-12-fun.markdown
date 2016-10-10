@@ -1,8 +1,0 @@
----
-layout: post
-title:  "fun"
-date:   2016-08-12 00:00:00 +0800
-categories: enjoy
----
-
-Have a fun.
