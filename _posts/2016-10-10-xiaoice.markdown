@@ -22,3 +22,7 @@ categories:
 小冰清唱:
 <audio src="/assets/voice/xiaoice/ms_mojo_weixin_media_0Sj6.mp3" type="audio/mpeg" controls="controls"></audio>
 
+
+O, 对了, 如果你也想调教一个属于你自己的小冰, 来:
+![小冰](/assets/images/ms-xiaoice.jpg)
+
