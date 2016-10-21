@@ -1,28 +1,4 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>email:</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-  </div>
-  <div class="copyright"><p>&copy 1980-2016</p></div>
+<footer>
+    <p><a href="https://nevermin.github.io/" target="_blank">Never Min</a> &copy 1980-2016</p>
 </footer>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>

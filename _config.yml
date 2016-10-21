@@ -12,10 +12,36 @@ description: > # this means to ignore newlines until "baseurl:"
   技男一枚, 只想过好眼前这一刻, 没有梦想, 难得好好的睡觉! 欢迎谈谈风月和美食,
   什么? 谈技术, 那我得先找找支付宝帐户.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.never.tw" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000" #"https://NeverMin.GitHub.io" # the base hostname & protocol for your site
 twitter_username: Never_Min
 github_username:  nevermin
 
 # Build settings
 markdown: kramdown
 drafts: --drafts
+
+# highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
