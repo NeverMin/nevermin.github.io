@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   技男一枚, 只想过好眼前这一刻, 没有梦想, 难得好好的睡觉! 欢迎谈谈风月和美食,
   什么? 谈技术, 那我得先找找支付宝帐户.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" #"https://NeverMin.GitHub.io" # the base hostname & protocol for your site
+url: "" #"http://127.0.0.1:4000" #"https://NeverMin.GitHub.io" # the base hostname & protocol for your site
 twitter_username: Never_Min
 github_username:  nevermin
 
