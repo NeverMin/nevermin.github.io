@@ -60,4 +60,4 @@ end
 {% endhighlight ruby %}
 
 
-Never <br>im@never.tw
+Never <br>Wechat/QQ 59808<br>im@never.tw
