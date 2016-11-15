@@ -51,7 +51,7 @@ introduction: "很多人问, 小学生要不要学习编程, Hadi Partovi 认为
 {% highlight ruby %}
 
 3.times do
-  2.times to
+  2.times do
     move forward
   end
   turn right
