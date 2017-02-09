@@ -25,7 +25,9 @@ introduction: "有一天我跟女儿说, 这个世界对你来说一切都是新
 
 然后我们俩就用语音展开了一个话题, 我们还聊到她刚学的课文大禹治水, 而在古代如果有些地方官治理不好, 发生水灾就会说河里有妖怪, 她还好有兴致跟我举了一些其他的事情, 好像完全忘记了"害怕"这件事了.
 
-于是, 在春节的时候, 我又再一次找时间重温了一遍, 现在分享这则演讲视频给你:
-* <embed src='http://player.youku.com/player.php/sid/XMjQ5NjE2MjE4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+于是, 在春节的时候, 我又再一次找时间重温了一遍, 现在分享给你:
+* 音频: <audio src="/media/let_your_baby_be_free.mp3" type="audio/mpeg" controls="controls"></audio>
+
+* [视频](http://player.youku.com/embed/XMjQ5NjE2MjE4NA==)
 
 让我女儿接受自己, 可以自由的表达她的情绪, 给她更多的肯定, 学习成为一个更好的父亲, 成为她的朋友. 2017, 爱在学习!
