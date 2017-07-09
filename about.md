@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Whois
 permalink: /about/
 ---
@@ -14,4 +14,4 @@ while ( my $live ) {
 }
 {% endhighlight perl %}
 
-我还常常出没在这里 [OTRS](https://ask.otrs.org.cn)
+我还常常出没在这里 [Zammad](https://zammad.org.cn)
