@@ -20,7 +20,7 @@ introduction: "wifi 作为我们最普及的[英文单词], 60岁老爷爷老奶
 答案是: 没用!
 
 其实本文到此也就结束了, 如果想了解关于 KRACK 漏洞可以参考下面的资料:
-- 安全研究人员演示实现方法 https://www.krackattacks.com/
+- 安全研究人员演示实现方法 [https://www.krackattacks.com/](https://www.krackattacks.com/)
 - 论文 https://papers.mathyvanhoef.com/ccs2017.pdf
 
 如果点了上面的连接, 发现看不懂退回来的话, 可以看看下面用最 **俗** 的文字数数关于 wifi 安全.
